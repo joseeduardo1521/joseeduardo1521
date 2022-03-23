@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eduardo Oropeza</h1>
-<h3 align="center">A passionate frontend developer from México, Software Development Student</h3>
+<h3 align="center">A passionate frontend developer from México, Software Development Student, Azure AZ-900</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
